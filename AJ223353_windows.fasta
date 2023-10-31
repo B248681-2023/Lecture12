@@ -1,0 +1,754 @@
+> Sliding window 125
+atgcctgaacctaccaagtctgctcctgcc> Sliding window 125
+cctgaacctaccaagtctgctcctgcccca> Sliding window 125
+gaacctaccaagtctgctcctgccccaaag> Sliding window 125
+cctaccaagtctgctcctgccccaaagaag> Sliding window 125
+accaagtctgctcctgccccaaagaagggc> Sliding window 125
+aagtctgctcctgccccaaagaagggctcc> Sliding window 125
+tctgctcctgccccaaagaagggctccaag> Sliding window 125
+gctcctgccccaaagaagggctccaagaag> Sliding window 125
+cctgccccaaagaagggctccaagaaggcg> Sliding window 125
+gccccaaagaagggctccaagaaggcggtg> Sliding window 125
+ccaaagaagggctccaagaaggcggtgact> Sliding window 125
+aagaagggctccaagaaggcggtgactaag> Sliding window 125
+aagggctccaagaaggcggtgactaaggct> Sliding window 125
+ggctccaagaaggcggtgactaaggctcag> Sliding window 125
+tccaagaaggcggtgactaaggctcagaag> Sliding window 125
+aagaaggcggtgactaaggctcagaagaag> Sliding window 125
+aaggcggtgactaaggctcagaagaaggac> Sliding window 125
+gcggtgactaaggctcagaagaaggacggg> Sliding window 125
+gtgactaaggctcagaagaaggacgggaag> Sliding window 125
+actaaggctcagaagaaggacgggaagaag> Sliding window 125
+aaggctcagaagaaggacgggaagaagcgc> Sliding window 125
+gctcagaagaaggacgggaagaagcgcaag> Sliding window 125
+cagaagaaggacgggaagaagcgcaagcgc> Sliding window 125
+aagaaggacgggaagaagcgcaagcgcagc> Sliding window 125
+aaggacgggaagaagcgcaagcgcagccgc> Sliding window 125
+gacgggaagaagcgcaagcgcagccgcaag> Sliding window 125
+gggaagaagcgcaagcgcagccgcaaggag> Sliding window 125
+aagaagcgcaagcgcagccgcaaggagagc> Sliding window 125
+aagcgcaagcgcagccgcaaggagagctat> Sliding window 125
+cgcaagcgcagccgcaaggagagctattca> Sliding window 125
+aagcgcagccgcaaggagagctattcagtg> Sliding window 125
+cgcagccgcaaggagagctattcagtgtat> Sliding window 125
+agccgcaaggagagctattcagtgtatgtg> Sliding window 125
+cgcaaggagagctattcagtgtatgtgtac> Sliding window 125
+aaggagagctattcagtgtatgtgtacaag> Sliding window 125
+gagagctattcagtgtatgtgtacaaggtg> Sliding window 125
+agctattcagtgtatgtgtacaaggtgctg> Sliding window 125
+tattcagtgtatgtgtacaaggtgctgaag> Sliding window 125
+tcagtgtatgtgtacaaggtgctgaagcag> Sliding window 125
+gtgtatgtgtacaaggtgctgaagcaggtc> Sliding window 125
+tatgtgtacaaggtgctgaagcaggtccat> Sliding window 125
+gtgtacaaggtgctgaagcaggtccatccc> Sliding window 125
+tacaaggtgctgaagcaggtccatcccgac> Sliding window 125
+aaggtgctgaagcaggtccatcccgacacc> Sliding window 125
+gtgctgaagcaggtccatcccgacaccggc> Sliding window 125
+ctgaagcaggtccatcccgacaccggcatc> Sliding window 125
+aagcaggtccatcccgacaccggcatctct> Sliding window 125
+caggtccatcccgacaccggcatctcttcc> Sliding window 125
+gtccatcccgacaccggcatctcttccaag> Sliding window 125
+catcccgacaccggcatctcttccaaggca> Sliding window 125
+cccgacaccggcatctcttccaaggcaatg> Sliding window 125
+gacaccggcatctcttccaaggcaatgggg> Sliding window 125
+accggcatctcttccaaggcaatggggatc> Sliding window 125
+ggcatctcttccaaggcaatggggatcatg> Sliding window 125
+atctcttccaaggcaatggggatcatgaat> Sliding window 125
+tcttccaaggcaatggggatcatgaattcc> Sliding window 125
+tccaaggcaatggggatcatgaattccttc> Sliding window 125
+aaggcaatggggatcatgaattccttcgtc> Sliding window 125
+gcaatggggatcatgaattccttcgtcaac> Sliding window 125
+atggggatcatgaattccttcgtcaacgac> Sliding window 125
+gggatcatgaattccttcgtcaacgacatc> Sliding window 125
+atcatgaattccttcgtcaacgacatcttc> Sliding window 125
+atgaattccttcgtcaacgacatcttcgag> Sliding window 125
+aattccttcgtcaacgacatcttcgagcgc> Sliding window 125
+tccttcgtcaacgacatcttcgagcgcatc> Sliding window 125
+ttcgtcaacgacatcttcgagcgcatcgca> Sliding window 125
+gtcaacgacatcttcgagcgcatcgcaggc> Sliding window 125
+aacgacatcttcgagcgcatcgcaggcgag> Sliding window 125
+gacatcttcgagcgcatcgcaggcgaggct> Sliding window 125
+atcttcgagcgcatcgcaggcgaggcttcc> Sliding window 125
+ttcgagcgcatcgcaggcgaggcttcccgc> Sliding window 125
+gagcgcatcgcaggcgaggcttcccgcctg> Sliding window 125
+cgcatcgcaggcgaggcttcccgcctggcg> Sliding window 125
+atcgcaggcgaggcttcccgcctggcgcat> Sliding window 125
+gcaggcgaggcttcccgcctggcgcattac> Sliding window 125
+ggcgaggcttcccgcctggcgcattacaac> Sliding window 125
+gaggcttcccgcctggcgcattacaacaag> Sliding window 125
+gcttcccgcctggcgcattacaacaagcgc> Sliding window 125
+tcccgcctggcgcattacaacaagcgctcg> Sliding window 125
+cgcctggcgcattacaacaagcgctcgacc> Sliding window 125
+ctggcgcattacaacaagcgctcgaccatc> Sliding window 125
+gcgcattacaacaagcgctcgaccatcacc> Sliding window 125
+cattacaacaagcgctcgaccatcacctcc> Sliding window 125
+tacaacaagcgctcgaccatcacctccagg> Sliding window 125
+aacaagcgctcgaccatcacctccagggag> Sliding window 125
+aagcgctcgaccatcacctccagggagatc> Sliding window 125
+cgctcgaccatcacctccagggagatccag> Sliding window 125
+tcgaccatcacctccagggagatccagacg> Sliding window 125
+accatcacctccagggagatccagacggcc> Sliding window 125
+atcacctccagggagatccagacggccgtg> Sliding window 125
+acctccagggagatccagacggccgtgcgc> Sliding window 125
+tccagggagatccagacggccgtgcgcctg> Sliding window 125
+agggagatccagacggccgtgcgcctgctg> Sliding window 125
+gagatccagacggccgtgcgcctgctgctt> Sliding window 125
+atccagacggccgtgcgcctgctgcttccg> Sliding window 125
+cagacggccgtgcgcctgctgcttccgggg> Sliding window 125
+acggccgtgcgcctgctgcttccgggggag> Sliding window 125
+gccgtgcgcctgctgcttccgggggagctg> Sliding window 125
+gtgcgcctgctgcttccgggggagctggcc> Sliding window 125
+cgcctgctgcttccgggggagctggccaag> Sliding window 125
+ctgctgcttccgggggagctggccaagcac> Sliding window 125
+ctgcttccgggggagctggccaagcacgcc> Sliding window 125
+cttccgggggagctggccaagcacgccgtg> Sliding window 125
+ccgggggagctggccaagcacgccgtgtcg> Sliding window 125
+ggggagctggccaagcacgccgtgtcggag> Sliding window 125
+gagctggccaagcacgccgtgtcggagggc> Sliding window 125
+ctggccaagcacgccgtgtcggagggcacc> Sliding window 125
+gccaagcacgccgtgtcggagggcaccaag> Sliding window 125
+aagcacgccgtgtcggagggcaccaaggcc> Sliding window 125
+cacgccgtgtcggagggcaccaaggccgtc> Sliding window 125
+gccgtgtcggagggcaccaaggccgtcacc> Sliding window 125
+gtgtcggagggcaccaaggccgtcaccaag> Sliding window 125
+tcggagggcaccaaggccgtcaccaagtac> Sliding window 125
+gagggcaccaaggccgtcaccaagtacacc> Sliding window 125
+ggcaccaaggccgtcaccaagtacaccagt> Sliding window 125
+accaaggccgtcaccaagtacaccagttcc> Sliding window 125
+aaggccgtcaccaagtacaccagttccaag> Sliding window 125
+gccgtcaccaagtacaccagttccaagta> Sliding window 125
+gtcaccaagtacaccagttccaagta> Sliding window 125
+accaagtacaccagttccaagta> Sliding window 125
+aagtacaccagttccaagta> Sliding window 125
+tacaccagttccaagta> Sliding window 125
+accagttccaagta> Sliding window 125
+agttccaagta> Sliding window 125
+tccaagta> Sliding window 125
+aagta> Sliding window 125
+atgcctgaacctaccaagtctgctcctgcc
+> Sliding window 125
+cctgaacctaccaagtctgctcctgcccca
+> Sliding window 125
+gaacctaccaagtctgctcctgccccaaag
+> Sliding window 125
+cctaccaagtctgctcctgccccaaagaag
+> Sliding window 125
+accaagtctgctcctgccccaaagaagggc
+> Sliding window 125
+aagtctgctcctgccccaaagaagggctcc
+> Sliding window 125
+tctgctcctgccccaaagaagggctccaag
+> Sliding window 125
+gctcctgccccaaagaagggctccaagaag
+> Sliding window 125
+cctgccccaaagaagggctccaagaaggcg
+> Sliding window 125
+gccccaaagaagggctccaagaaggcggtg
+> Sliding window 125
+ccaaagaagggctccaagaaggcggtgact
+> Sliding window 125
+aagaagggctccaagaaggcggtgactaag
+> Sliding window 125
+aagggctccaagaaggcggtgactaaggct
+> Sliding window 125
+ggctccaagaaggcggtgactaaggctcag
+> Sliding window 125
+tccaagaaggcggtgactaaggctcagaag
+> Sliding window 125
+aagaaggcggtgactaaggctcagaagaag
+> Sliding window 125
+aaggcggtgactaaggctcagaagaaggac
+> Sliding window 125
+gcggtgactaaggctcagaagaaggacggg
+> Sliding window 125
+gtgactaaggctcagaagaaggacgggaag
+> Sliding window 125
+actaaggctcagaagaaggacgggaagaag
+> Sliding window 125
+aaggctcagaagaaggacgggaagaagcgc
+> Sliding window 125
+gctcagaagaaggacgggaagaagcgcaag
+> Sliding window 125
+cagaagaaggacgggaagaagcgcaagcgc
+> Sliding window 125
+aagaaggacgggaagaagcgcaagcgcagc
+> Sliding window 125
+aaggacgggaagaagcgcaagcgcagccgc
+> Sliding window 125
+gacgggaagaagcgcaagcgcagccgcaag
+> Sliding window 125
+gggaagaagcgcaagcgcagccgcaaggag
+> Sliding window 125
+aagaagcgcaagcgcagccgcaaggagagc
+> Sliding window 125
+aagcgcaagcgcagccgcaaggagagctat
+> Sliding window 125
+cgcaagcgcagccgcaaggagagctattca
+> Sliding window 125
+aagcgcagccgcaaggagagctattcagtg
+> Sliding window 125
+cgcagccgcaaggagagctattcagtgtat
+> Sliding window 125
+agccgcaaggagagctattcagtgtatgtg
+> Sliding window 125
+cgcaaggagagctattcagtgtatgtgtac
+> Sliding window 125
+aaggagagctattcagtgtatgtgtacaag
+> Sliding window 125
+gagagctattcagtgtatgtgtacaaggtg
+> Sliding window 125
+agctattcagtgtatgtgtacaaggtgctg
+> Sliding window 125
+tattcagtgtatgtgtacaaggtgctgaag
+> Sliding window 125
+tcagtgtatgtgtacaaggtgctgaagcag
+> Sliding window 125
+gtgtatgtgtacaaggtgctgaagcaggtc
+> Sliding window 125
+tatgtgtacaaggtgctgaagcaggtccat
+> Sliding window 125
+gtgtacaaggtgctgaagcaggtccatccc
+> Sliding window 125
+tacaaggtgctgaagcaggtccatcccgac
+> Sliding window 125
+aaggtgctgaagcaggtccatcccgacacc
+> Sliding window 125
+gtgctgaagcaggtccatcccgacaccggc
+> Sliding window 125
+ctgaagcaggtccatcccgacaccggcatc
+> Sliding window 125
+aagcaggtccatcccgacaccggcatctct
+> Sliding window 125
+caggtccatcccgacaccggcatctcttcc
+> Sliding window 125
+gtccatcccgacaccggcatctcttccaag
+> Sliding window 125
+catcccgacaccggcatctcttccaaggca
+> Sliding window 125
+cccgacaccggcatctcttccaaggcaatg
+> Sliding window 125
+gacaccggcatctcttccaaggcaatgggg
+> Sliding window 125
+accggcatctcttccaaggcaatggggatc
+> Sliding window 125
+ggcatctcttccaaggcaatggggatcatg
+> Sliding window 125
+atctcttccaaggcaatggggatcatgaat
+> Sliding window 125
+tcttccaaggcaatggggatcatgaattcc
+> Sliding window 125
+tccaaggcaatggggatcatgaattccttc
+> Sliding window 125
+aaggcaatggggatcatgaattccttcgtc
+> Sliding window 125
+gcaatggggatcatgaattccttcgtcaac
+> Sliding window 125
+atggggatcatgaattccttcgtcaacgac
+> Sliding window 125
+gggatcatgaattccttcgtcaacgacatc
+> Sliding window 125
+atcatgaattccttcgtcaacgacatcttc
+> Sliding window 125
+atgaattccttcgtcaacgacatcttcgag
+> Sliding window 125
+aattccttcgtcaacgacatcttcgagcgc
+> Sliding window 125
+tccttcgtcaacgacatcttcgagcgcatc
+> Sliding window 125
+ttcgtcaacgacatcttcgagcgcatcgca
+> Sliding window 125
+gtcaacgacatcttcgagcgcatcgcaggc
+> Sliding window 125
+aacgacatcttcgagcgcatcgcaggcgag
+> Sliding window 125
+gacatcttcgagcgcatcgcaggcgaggct
+> Sliding window 125
+atcttcgagcgcatcgcaggcgaggcttcc
+> Sliding window 125
+ttcgagcgcatcgcaggcgaggcttcccgc
+> Sliding window 125
+gagcgcatcgcaggcgaggcttcccgcctg
+> Sliding window 125
+cgcatcgcaggcgaggcttcccgcctggcg
+> Sliding window 125
+atcgcaggcgaggcttcccgcctggcgcat
+> Sliding window 125
+gcaggcgaggcttcccgcctggcgcattac
+> Sliding window 125
+ggcgaggcttcccgcctggcgcattacaac
+> Sliding window 125
+gaggcttcccgcctggcgcattacaacaag
+> Sliding window 125
+gcttcccgcctggcgcattacaacaagcgc
+> Sliding window 125
+tcccgcctggcgcattacaacaagcgctcg
+> Sliding window 125
+cgcctggcgcattacaacaagcgctcgacc
+> Sliding window 125
+ctggcgcattacaacaagcgctcgaccatc
+> Sliding window 125
+gcgcattacaacaagcgctcgaccatcacc
+> Sliding window 125
+cattacaacaagcgctcgaccatcacctcc
+> Sliding window 125
+tacaacaagcgctcgaccatcacctccagg
+> Sliding window 125
+aacaagcgctcgaccatcacctccagggag
+> Sliding window 125
+aagcgctcgaccatcacctccagggagatc
+> Sliding window 125
+cgctcgaccatcacctccagggagatccag
+> Sliding window 125
+tcgaccatcacctccagggagatccagacg
+> Sliding window 125
+accatcacctccagggagatccagacggcc
+> Sliding window 125
+atcacctccagggagatccagacggccgtg
+> Sliding window 125
+acctccagggagatccagacggccgtgcgc
+> Sliding window 125
+tccagggagatccagacggccgtgcgcctg
+> Sliding window 125
+agggagatccagacggccgtgcgcctgctg
+> Sliding window 125
+gagatccagacggccgtgcgcctgctgctt
+> Sliding window 125
+atccagacggccgtgcgcctgctgcttccg
+> Sliding window 125
+cagacggccgtgcgcctgctgcttccgggg
+> Sliding window 125
+acggccgtgcgcctgctgcttccgggggag
+> Sliding window 125
+gccgtgcgcctgctgcttccgggggagctg
+> Sliding window 125
+gtgcgcctgctgcttccgggggagctggcc
+> Sliding window 125
+cgcctgctgcttccgggggagctggccaag
+> Sliding window 125
+ctgctgcttccgggggagctggccaagcac
+> Sliding window 125
+ctgcttccgggggagctggccaagcacgcc
+> Sliding window 125
+cttccgggggagctggccaagcacgccgtg
+> Sliding window 125
+ccgggggagctggccaagcacgccgtgtcg
+> Sliding window 125
+ggggagctggccaagcacgccgtgtcggag
+> Sliding window 125
+gagctggccaagcacgccgtgtcggagggc
+> Sliding window 125
+ctggccaagcacgccgtgtcggagggcacc
+> Sliding window 125
+gccaagcacgccgtgtcggagggcaccaag
+> Sliding window 125
+aagcacgccgtgtcggagggcaccaaggcc
+> Sliding window 125
+cacgccgtgtcggagggcaccaaggccgtc
+> Sliding window 125
+gccgtgtcggagggcaccaaggccgtcacc
+> Sliding window 125
+gtgtcggagggcaccaaggccgtcaccaag
+> Sliding window 125
+tcggagggcaccaaggccgtcaccaagtac
+> Sliding window 125
+gagggcaccaaggccgtcaccaagtacacc
+> Sliding window 125
+ggcaccaaggccgtcaccaagtacaccagt
+> Sliding window 125
+accaaggccgtcaccaagtacaccagttcc
+> Sliding window 125
+aaggccgtcaccaagtacaccagttccaag
+> Sliding window 125
+gccgtcaccaagtacaccagttccaagta
+> Sliding window 125
+gtcaccaagtacaccagttccaagta
+> Sliding window 125
+accaagtacaccagttccaagta
+> Sliding window 125
+aagtacaccagttccaagta
+> Sliding window 125
+tacaccagttccaagta
+> Sliding window 125
+accagttccaagta
+> Sliding window 125
+agttccaagta
+> Sliding window 125
+tccaagta
+> Sliding window 125
+aagta> Sliding window 125
+atgcctgaacctaccaagtctgctcctgcc
+
+> Sliding window 125
+cctgaacctaccaagtctgctcctgcccca
+
+> Sliding window 125
+gaacctaccaagtctgctcctgccccaaag
+
+> Sliding window 125
+cctaccaagtctgctcctgccccaaagaag
+
+> Sliding window 125
+accaagtctgctcctgccccaaagaagggc
+
+> Sliding window 125
+aagtctgctcctgccccaaagaagggctcc
+
+> Sliding window 125
+tctgctcctgccccaaagaagggctccaag
+
+> Sliding window 125
+gctcctgccccaaagaagggctccaagaag
+
+> Sliding window 125
+cctgccccaaagaagggctccaagaaggcg
+
+> Sliding window 125
+gccccaaagaagggctccaagaaggcggtg
+
+> Sliding window 125
+ccaaagaagggctccaagaaggcggtgact
+
+> Sliding window 125
+aagaagggctccaagaaggcggtgactaag
+
+> Sliding window 125
+aagggctccaagaaggcggtgactaaggct
+
+> Sliding window 125
+ggctccaagaaggcggtgactaaggctcag
+
+> Sliding window 125
+tccaagaaggcggtgactaaggctcagaag
+
+> Sliding window 125
+aagaaggcggtgactaaggctcagaagaag
+
+> Sliding window 125
+aaggcggtgactaaggctcagaagaaggac
+
+> Sliding window 125
+gcggtgactaaggctcagaagaaggacggg
+
+> Sliding window 125
+gtgactaaggctcagaagaaggacgggaag
+
+> Sliding window 125
+actaaggctcagaagaaggacgggaagaag
+
+> Sliding window 125
+aaggctcagaagaaggacgggaagaagcgc
+
+> Sliding window 125
+gctcagaagaaggacgggaagaagcgcaag
+
+> Sliding window 125
+cagaagaaggacgggaagaagcgcaagcgc
+
+> Sliding window 125
+aagaaggacgggaagaagcgcaagcgcagc
+
+> Sliding window 125
+aaggacgggaagaagcgcaagcgcagccgc
+
+> Sliding window 125
+gacgggaagaagcgcaagcgcagccgcaag
+
+> Sliding window 125
+gggaagaagcgcaagcgcagccgcaaggag
+
+> Sliding window 125
+aagaagcgcaagcgcagccgcaaggagagc
+
+> Sliding window 125
+aagcgcaagcgcagccgcaaggagagctat
+
+> Sliding window 125
+cgcaagcgcagccgcaaggagagctattca
+
+> Sliding window 125
+aagcgcagccgcaaggagagctattcagtg
+
+> Sliding window 125
+cgcagccgcaaggagagctattcagtgtat
+
+> Sliding window 125
+agccgcaaggagagctattcagtgtatgtg
+
+> Sliding window 125
+cgcaaggagagctattcagtgtatgtgtac
+
+> Sliding window 125
+aaggagagctattcagtgtatgtgtacaag
+
+> Sliding window 125
+gagagctattcagtgtatgtgtacaaggtg
+
+> Sliding window 125
+agctattcagtgtatgtgtacaaggtgctg
+
+> Sliding window 125
+tattcagtgtatgtgtacaaggtgctgaag
+
+> Sliding window 125
+tcagtgtatgtgtacaaggtgctgaagcag
+
+> Sliding window 125
+gtgtatgtgtacaaggtgctgaagcaggtc
+
+> Sliding window 125
+tatgtgtacaaggtgctgaagcaggtccat
+
+> Sliding window 125
+gtgtacaaggtgctgaagcaggtccatccc
+
+> Sliding window 125
+tacaaggtgctgaagcaggtccatcccgac
+
+> Sliding window 125
+aaggtgctgaagcaggtccatcccgacacc
+
+> Sliding window 125
+gtgctgaagcaggtccatcccgacaccggc
+
+> Sliding window 125
+ctgaagcaggtccatcccgacaccggcatc
+
+> Sliding window 125
+aagcaggtccatcccgacaccggcatctct
+
+> Sliding window 125
+caggtccatcccgacaccggcatctcttcc
+
+> Sliding window 125
+gtccatcccgacaccggcatctcttccaag
+
+> Sliding window 125
+catcccgacaccggcatctcttccaaggca
+
+> Sliding window 125
+cccgacaccggcatctcttccaaggcaatg
+
+> Sliding window 125
+gacaccggcatctcttccaaggcaatgggg
+
+> Sliding window 125
+accggcatctcttccaaggcaatggggatc
+
+> Sliding window 125
+ggcatctcttccaaggcaatggggatcatg
+
+> Sliding window 125
+atctcttccaaggcaatggggatcatgaat
+
+> Sliding window 125
+tcttccaaggcaatggggatcatgaattcc
+
+> Sliding window 125
+tccaaggcaatggggatcatgaattccttc
+
+> Sliding window 125
+aaggcaatggggatcatgaattccttcgtc
+
+> Sliding window 125
+gcaatggggatcatgaattccttcgtcaac
+
+> Sliding window 125
+atggggatcatgaattccttcgtcaacgac
+
+> Sliding window 125
+gggatcatgaattccttcgtcaacgacatc
+
+> Sliding window 125
+atcatgaattccttcgtcaacgacatcttc
+
+> Sliding window 125
+atgaattccttcgtcaacgacatcttcgag
+
+> Sliding window 125
+aattccttcgtcaacgacatcttcgagcgc
+
+> Sliding window 125
+tccttcgtcaacgacatcttcgagcgcatc
+
+> Sliding window 125
+ttcgtcaacgacatcttcgagcgcatcgca
+
+> Sliding window 125
+gtcaacgacatcttcgagcgcatcgcaggc
+
+> Sliding window 125
+aacgacatcttcgagcgcatcgcaggcgag
+
+> Sliding window 125
+gacatcttcgagcgcatcgcaggcgaggct
+
+> Sliding window 125
+atcttcgagcgcatcgcaggcgaggcttcc
+
+> Sliding window 125
+ttcgagcgcatcgcaggcgaggcttcccgc
+
+> Sliding window 125
+gagcgcatcgcaggcgaggcttcccgcctg
+
+> Sliding window 125
+cgcatcgcaggcgaggcttcccgcctggcg
+
+> Sliding window 125
+atcgcaggcgaggcttcccgcctggcgcat
+
+> Sliding window 125
+gcaggcgaggcttcccgcctggcgcattac
+
+> Sliding window 125
+ggcgaggcttcccgcctggcgcattacaac
+
+> Sliding window 125
+gaggcttcccgcctggcgcattacaacaag
+
+> Sliding window 125
+gcttcccgcctggcgcattacaacaagcgc
+
+> Sliding window 125
+tcccgcctggcgcattacaacaagcgctcg
+
+> Sliding window 125
+cgcctggcgcattacaacaagcgctcgacc
+
+> Sliding window 125
+ctggcgcattacaacaagcgctcgaccatc
+
+> Sliding window 125
+gcgcattacaacaagcgctcgaccatcacc
+
+> Sliding window 125
+cattacaacaagcgctcgaccatcacctcc
+
+> Sliding window 125
+tacaacaagcgctcgaccatcacctccagg
+
+> Sliding window 125
+aacaagcgctcgaccatcacctccagggag
+
+> Sliding window 125
+aagcgctcgaccatcacctccagggagatc
+
+> Sliding window 125
+cgctcgaccatcacctccagggagatccag
+
+> Sliding window 125
+tcgaccatcacctccagggagatccagacg
+
+> Sliding window 125
+accatcacctccagggagatccagacggcc
+
+> Sliding window 125
+atcacctccagggagatccagacggccgtg
+
+> Sliding window 125
+acctccagggagatccagacggccgtgcgc
+
+> Sliding window 125
+tccagggagatccagacggccgtgcgcctg
+
+> Sliding window 125
+agggagatccagacggccgtgcgcctgctg
+
+> Sliding window 125
+gagatccagacggccgtgcgcctgctgctt
+
+> Sliding window 125
+atccagacggccgtgcgcctgctgcttccg
+
+> Sliding window 125
+cagacggccgtgcgcctgctgcttccgggg
+
+> Sliding window 125
+acggccgtgcgcctgctgcttccgggggag
+
+> Sliding window 125
+gccgtgcgcctgctgcttccgggggagctg
+
+> Sliding window 125
+gtgcgcctgctgcttccgggggagctggcc
+
+> Sliding window 125
+cgcctgctgcttccgggggagctggccaag
+
+> Sliding window 125
+ctgctgcttccgggggagctggccaagcac
+
+> Sliding window 125
+ctgcttccgggggagctggccaagcacgcc
+
+> Sliding window 125
+cttccgggggagctggccaagcacgccgtg
+
+> Sliding window 125
+ccgggggagctggccaagcacgccgtgtcg
+
+> Sliding window 125
+ggggagctggccaagcacgccgtgtcggag
+
+> Sliding window 125
+gagctggccaagcacgccgtgtcggagggc
+
+> Sliding window 125
+ctggccaagcacgccgtgtcggagggcacc
+
+> Sliding window 125
+gccaagcacgccgtgtcggagggcaccaag
+
+> Sliding window 125
+aagcacgccgtgtcggagggcaccaaggcc
+
+> Sliding window 125
+cacgccgtgtcggagggcaccaaggccgtc
+
+> Sliding window 125
+gccgtgtcggagggcaccaaggccgtcacc
+
+> Sliding window 125
+gtgtcggagggcaccaaggccgtcaccaag
+
+> Sliding window 125
+tcggagggcaccaaggccgtcaccaagtac
+
+> Sliding window 125
+gagggcaccaaggccgtcaccaagtacacc
+
+> Sliding window 125
+ggcaccaaggccgtcaccaagtacaccagt
+
+> Sliding window 125
+accaaggccgtcaccaagtacaccagttcc
+
+> Sliding window 125
+aaggccgtcaccaagtacaccagttccaag
+
+> Sliding window 125
+gccgtcaccaagtacaccagttccaagta
+
+> Sliding window 125
+gtcaccaagtacaccagttccaagta
+
+> Sliding window 125
+accaagtacaccagttccaagta
+
+> Sliding window 125
+aagtacaccagttccaagta
+
+> Sliding window 125
+tacaccagttccaagta
+
+> Sliding window 125
+accagttccaagta
+
+> Sliding window 125
+agttccaagta
+
+> Sliding window 125
+tccaagta
+
+> Sliding window 125
+aagta
